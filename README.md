@@ -21,7 +21,7 @@ then add source ~/pwndbg/gdbinit.py to .gdbinit
 
 ```
 source ~/peda/peda.py
-source ~/pwndbg/gdbinit.py
+source ~/pwndbg/gdbinit.py   <<===
 source ~/Pwngdb/pwngdb.py
 source ~/Pwngdb/angelheap/gdbinit.py
 
