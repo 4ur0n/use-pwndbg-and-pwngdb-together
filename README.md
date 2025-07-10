@@ -14,8 +14,9 @@ $ ./setup.sh
 $ https://github.com/scwuaptx/Pwngdb.git
 
 $ cp ~/Pwngdb/.gdbinit ~/
- then add source ~/pwndbg/gdbinit.py to .gdbinit
 
+then add source ~/pwndbg/gdbinit.py to .gdbinit
+```
 source ~/peda/peda.py
 source ~/pwndbg/gdbinit.py
 source ~/Pwngdb/pwngdb.py
@@ -27,6 +28,6 @@ import angelheap
 angelheap.init_angelheap()
 end
 end
-
+```
 
 
