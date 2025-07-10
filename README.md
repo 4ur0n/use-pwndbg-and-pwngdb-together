@@ -16,7 +16,7 @@ $ https://github.com/scwuaptx/Pwngdb.git
 
 $ cp ~/Pwngdb/.gdbinit ~/
 
-then add source ~/pwndbg/gdbinit.py to .gdbinit
+then add source ~/pwndbg/gdbinit.py to ~/.gdbinit
 ```
 
 ```
