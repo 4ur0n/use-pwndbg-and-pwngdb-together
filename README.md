@@ -4,7 +4,7 @@
 ```
 space: ~/
 
-$ https://github.com/pwndbg/pwndbg.git
+$ git clone https://github.com/pwndbg/pwndbg.git
 
 $ cd ~/pwndbg
 
@@ -12,7 +12,7 @@ $ ./setup.sh
 ```
 ## Download pwngdb
 ```
-$ https://github.com/scwuaptx/Pwngdb.git
+$ git clone https://github.com/scwuaptx/Pwngdb.git
 
 $ cp ~/Pwngdb/.gdbinit ~/
 
